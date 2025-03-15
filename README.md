@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics 
 - 🌱 I’m currently learning Sql
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @sundrakemboi@gmail.com 
+- 📫 How to reach me @sandrakatekemboi@gmail.com 
 
 <!---
 sandrakemboi/sandrakemboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
